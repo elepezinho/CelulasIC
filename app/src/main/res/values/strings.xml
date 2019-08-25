@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="title_activity_other">OtherActivity</string>
+    <string name="title_celula_02">Célula da Maria</string>
+
+    <string name="nome_celula_01">João Ferreira Almeida</string>
+
+    <string name="end_celula_01">Rua: José Lia, 163 - Jardim Santa Ines II</string>
+
+    <string name="tel_celula_01">Tel: 12988425178</string>
+
+    <string name="email_celula_01">joao.ferreira@gmail.com</string>
+</resources>
